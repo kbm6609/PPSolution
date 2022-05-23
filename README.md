@@ -17,3 +17,6 @@
 
 ***
 
+| 구분 | 문제이름 | 난이도 | 날짜 
+|---|:---:|:---:|:---:|:---:|
+| 자료구조 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 22.05.23
