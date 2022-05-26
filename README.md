@@ -26,3 +26,4 @@
 | 자료구조 | [쇠막대기](https://www.acmicpc.net/problem/10799) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 22.05.24 | X |
 | 자료구조 | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 22.05.25 | X |
 | 자료구조 | [괄호의 값](https://www.acmicpc.net/problem/2504) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 22.05.26 | X |
+| 자료구조 | [괄호 제거](https://www.acmicpc.net/problem/2800) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 22.05.26 | X |
