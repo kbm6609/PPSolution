@@ -28,4 +28,5 @@
 | 자료구조 | [괄호의 값](https://www.acmicpc.net/problem/2504) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 22.05.26 | X |
 | 자료구조 | [괄호 제거](https://www.acmicpc.net/problem/2800) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 22.05.26 | X |
 | 자료구조 | [탑](https://www.acmicpc.net/problem/2493) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 22.05.31 | X |
-| 자료구조 | [후위 표기식](https://www.acmicpc.net/problem/1918) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 22.05.31 | X |
+| 자료구조 | [후위 표기식](https://www.acmicpc.net/problem/1918) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 22.05.31 | X |
+| 자료구조 | [AC](https://www.acmicpc.net/problem/5430) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 22.06.12 | X |
