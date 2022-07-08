@@ -30,3 +30,4 @@
 | 자료구조 | [탑](https://www.acmicpc.net/problem/2493) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 22.05.31 | X |
 | 자료구조 | [후위 표기식](https://www.acmicpc.net/problem/1918) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 22.05.31 | X |
 | 자료구조 | [AC](https://www.acmicpc.net/problem/5430) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 22.06.12 | X |
+| 자료구조 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 22.06.12 | X |
